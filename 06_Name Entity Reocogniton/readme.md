@@ -5,7 +5,7 @@ This project demonstrates **Named Entity Recognition (NER)** in Natural Language
 
 Named Entity Recognition is the process of identifying and classifying named entities in text into predefined categories such as **Person, Organization, Location, Date, Time, Money, Percentage**, and more.
 
-## Features
+## Features 
 - Sentence Tokenization
 - Word Tokenization
 - Stopword Removal
