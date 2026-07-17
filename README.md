@@ -17,10 +17,10 @@ This repository documents my journey of learning **Natural Language Processing (
 ```
 NLP-Learning/
 │
-├── 01-Tokenization/
-├── 02-StopWords/
-├── 03-Stemming/
-├── 04-Lemmatization/
+├── 01-Tokenization/ [✔️]
+├── 02-StopWords/ [✔️]
+├── 03-Stemming/ [✔️]
+├── 04-Lemmatization/ [✔️]
 ├── 05-RegularExpressions/
 ├── 06-BagOfWords/
 ├── 07-TFIDF/
