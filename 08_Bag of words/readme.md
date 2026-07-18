@@ -108,13 +108,6 @@ The Bag of Words vectors were then generated using the vocabulary.
 
 ---
 
-### 📸 Notes
-
-```markdown
-![Bag of Words Notes](bag_of_words_notes.jpg)
-```
-
----
 
 ## 🔍 Observation
 
