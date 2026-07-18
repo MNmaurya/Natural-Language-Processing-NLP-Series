@@ -46,7 +46,7 @@ Sundar Pichai → PERSON
 Google → ORGANIZATION
 California → GPE (Location)
 ```
-
+ 
 ## Project Structure
 
 ```
