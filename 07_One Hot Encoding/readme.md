@@ -89,7 +89,7 @@ Since the word **Pizza** was not present in the training vocabulary, One Hot Enc
 
 ### 📸 Notes
 
-![One Hot Encoding Notes](one_hot_encoding.jpg)
+chechk out the attached image -----> one_hot_encoding.jpg
 
 ---
 
