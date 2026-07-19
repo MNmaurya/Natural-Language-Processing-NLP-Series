@@ -21,10 +21,11 @@ NLP-Learning/
 ├── 02-StopWords/ [✔️]
 ├── 03-Stemming/ [✔️]
 ├── 04-Lemmatization/ [✔️]
-├── 05-RegularExpressions/
-├── 06-BagOfWords/
-├── 07-TFIDF/
-└── README.md
+├── 05-RegularExpressions/ [✔️]
+├── 06-BagOfWords/ [✔️]
+├── 07-TFIDF/ [✔️]
+├── 08-upcoming....
+└── README.md 
 ```
 
 ---
