@@ -1,4 +1,4 @@
-# TF-IDF (Term Frequency – Inverse Document Frequency)
+# TF-IDF (Term Frequency – Inverse Document Frequency) 
 
 ## 📌 Overview
 TF-IDF (Term Frequency–Inverse Document Frequency) is a feature extraction technique used in Natural Language Processing (NLP). It assigns a numerical weight to each word based on how frequently it appears in a document (TF) and how unique it is across all documents (IDF). This helps identify the most important words while reducing the impact of very common terms.
@@ -7,7 +7,7 @@ TF-IDF (Term Frequency–Inverse Document Frequency) is a feature extraction tec
 - Concept of Term Frequency (TF)
 - Concept of Inverse Document Frequency (IDF)
 - TF and IDF formulas
-- Manual calculation of TF values
+- Manual calculation of TF values   
 - Manual calculation of IDF values
 - Creating the final TF-IDF matrix (feature vector)
 - Understanding how TF-IDF highlights important words
