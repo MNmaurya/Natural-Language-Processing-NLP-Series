@@ -5,8 +5,8 @@ TF-IDF (Term Frequency–Inverse Document Frequency) is a feature extraction tec
 
 ## 🧠 What I Learned
 - Concept of Term Frequency (TF)
-- Concept of Inverse Document Frequency (IDF)
-- TF and IDF formulas
+- Concept of Inverse Document Frequency (IDF) 
+- TF and IDF formulas    
 - Manual calculation of TF values   
 - Manual calculation of IDF values
 - Creating the final TF-IDF matrix (feature vector)
