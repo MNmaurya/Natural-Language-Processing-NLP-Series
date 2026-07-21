@@ -6,7 +6,7 @@ Learn the concept of **Stop Words** in Natural Language Processing (NLP) and und
 
 ---
 
-## 📚 Concepts Covered
+## 📚 Concepts Covered 
 
 - What are Stop Words?
 - Why Stop Words are removed
